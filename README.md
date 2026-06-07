@@ -1,16 +1,15 @@
-## Hi there 👋
+### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘ pregiudicato ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
-<!--
-**pregiudicato/pregiudicato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cybersecurity fanatic and computer science lover (im gonna be unemployed by 2036)
 
-Here are some ideas to get you started:
+#### interested in:
+- reverse engineering
+- networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### tech stack:
+- python
+- c/c++
+- rust
+- go
+
+### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
