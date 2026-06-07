@@ -1,4 +1,4 @@
-### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘ pregiudicato ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘ pregiudicato ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
 cybersecurity fanatic and computer science lover (im gonna be unemployed by 2036)
 
@@ -12,4 +12,4 @@ cybersecurity fanatic and computer science lover (im gonna be unemployed by 2036
 - rust
 - go
 
-### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+### ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
